@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	color: blue;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+table{
+	color:black;
+}
+h3{
+	color: blueviolet;
+}
+h6{
+	color: crimson;
+}

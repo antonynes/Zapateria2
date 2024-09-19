@@ -1,0 +1,20 @@
+misDatos([
+	{
+		"Folio":1,
+		"Descripcion":"Tennis conversse",
+		"Talla":25,
+		"precio":899,
+	},
+	{
+		"Folio":2,
+		"Descripcion":"Tennis conversse",
+		"Talla":26,
+		"precio":999,
+	},
+	{
+		"Folio":3,
+		"Descripcion":"Tennis conversse",
+		"Talla":24,
+		"precio":799,
+	},
+])
